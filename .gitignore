@@ -1,0 +1,16 @@
+# Données volumineuses
+data/input/
+data/silver/
+data/gold/
+
+# Environnement Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Fichiers macOS
+.DS_Store
+
+# Fichiers temporaires Spark
+.sparkStaging/
+*.crc

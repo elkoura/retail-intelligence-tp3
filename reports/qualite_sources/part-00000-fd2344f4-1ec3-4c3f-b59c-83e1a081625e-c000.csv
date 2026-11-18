@@ -1,0 +1,3 @@
+source,nombre_lignes,nombre_colonnes,colonnes_avec_null,erreurs_conversion,doublons_exacts
+store_sales,667579,23,4,0,0
+web_sales,668052,34,11,0,0
